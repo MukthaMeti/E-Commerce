@@ -131,10 +131,3 @@ We welcome contributions to improve the platform. Follow these steps:
 3. Make changes and commit (`git commit -am 'Add feature'`).
 4. Push the changes (`git push origin feature/your-feature`).
 5. Open a pull request to merge your changes into the main branch.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README includes detailed setup instructions, deployment guidelines, and instructions for contributing, making it easy for other developers to get started with your project. Let me know if you need any further adjustments!
