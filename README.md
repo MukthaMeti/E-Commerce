@@ -121,7 +121,6 @@ You can deploy the backend to cloud platforms like **Heroku**, **AWS**, or **Dig
 For static frontend (HTML, CSS, JavaScript), deploy using **Netlify** or **Vercel**:
 1. Sign up on [Netlify](https://www.netlify.com) or [Vercel](https://vercel.com).
 2. Link your GitHub repository and deploy.
-
 For dynamic frontends like React, you can deploy the full stack on platforms like **Heroku** or **Render**.
 
 ## Contributing
